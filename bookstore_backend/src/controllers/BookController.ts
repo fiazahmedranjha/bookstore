@@ -31,13 +31,14 @@ export async function getBookById(req: Request, res: Response): Promise<void> {
 
 export async function createBook(req: Request, res: Response): Promise<void> {
   const { title, description, discountedRate, coverImage, price } = req.body;
-
+  console.log("req.body",req.body);
   if (!title || !description || !discountedRate || !price) {
     res.status(400).json({ error: 'Title, description, discountedRate, and price are required.' });
     return;
   }
 
   try {
+    console.log("req.body",req.body);
     const newBook = await BookService.createBook(req.body);
     res.status(201).json(newBook);
   } catch (error) {

@@ -3,6 +3,8 @@ import { useRecoilState } from 'recoil';
 import { fetchBooks } from './services/bookService';
 import bookState, { Book } from './atoms/bookState';
 import Card from './components/Card';
+import axios from 'axios';
+const BASE_URL = 'http://localhost:4000/buying_books';
 
 const BookList: React.FC = () => {
   const [books, setBooks] = useRecoilState(bookState);

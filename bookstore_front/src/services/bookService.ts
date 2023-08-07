@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { Book } from '../atoms/bookState';
 
-const BASE_URL = 'YOUR_REST_API_BASE_URL';
+const BASE_URL = 'http://localhost:4000/buying_books';
 
 export const fetchBooks = async (): Promise<Book[]> => {
   try {
