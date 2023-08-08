@@ -1,0 +1,25 @@
+project-root/
+|-- src/
+|   |-- controllers/
+|   |   |-- booksController.ts
+|   |
+|   |-- services/
+|   |   |-- booksService.ts
+|   |
+|   |-- repositories/
+|   |   |-- booksRepository.ts
+|   |
+|   |-- models/
+|   |   |-- Book.ts
+|   |
+|   |-- entity/
+|   |   |-- Book.ts
+|   |
+|   |-- db.ts
+|   |-- index.ts
+|
+|-- node_modules/
+|-- package.json
+|-- tsconfig.json
+|-- .gitignore
+|-- README.md

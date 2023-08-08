@@ -1,0 +1,1349 @@
+
+.BOOKLISTPAGE_BOOKLISTPAGE {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Rectangle12846 {
+	position: absolute;
+	left: 0px;
+	top: 345.59999999999997px;
+	width: 375px;
+    height: 1206px;
+	background: rgba(255,255,255,1.00);
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Rectangle12845 {
+	left: 0px;
+	top: 0px;
+	width: 375px;
+   height: 48px;
+    flex-shrink: 0;
+	background: var(--font-white, #FFF);
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .RED_GUDIE_02 {
+	visibility: hidden;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 61.44px;
+	height: 3118.08px;
+	background: rgba(255,64,64,0.50);
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .RED_GUDIE_01 {
+	visibility: hidden;
+	position: absolute;
+	right: 0px;
+	top: 0px;
+	width: 61.44px;
+	height: 3118.08px;
+	background: rgba(255,64,64,0.50);
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Books {
+	position: absolute;
+	left: 162;
+	top: 13px;
+	transform: translate(-50%, 0);
+	color: var(--n-10, #1D232B);
+	width: 54px;
+	height: 18px;
+font-family: Noto Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 100%; /* 18px */
+letter-spacing: -0.18px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086554 {
+	 position: inherit;
+	/*left: 95.744%;
+	top: 184.32px; 
+	transform: translate(-50%, 0);*/
+	width: 187px;
+	height: 257px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	align-items: center;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086554 .Group26086594 {
+	width: 187px;
+    height: 187px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086554 .Group26086594 .Rectangle12866 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 718.0799999999999px;
+	height: 718.0799999999999px;
+	background: rgba(237,238,243,1.00);
+	border: 1px solid rgba(255,255,255,1);
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086554 .Group26086594 .imagesmode {
+	position: absolute;
+	left: 307.2px;
+	top: 307.2px;
+	width: 106.83px;
+	height: 106.83px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086554 .Group26086594 .imagesmode .Boundingbox {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 106.83px;
+	height: 106.83px;
+	background: rgba(217,217,217,1.00);
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086554 .Group26086594 .imagesmode .imagesmode_1 {
+	position: relative;
+	/* left: 8.909765625px;
+	top: 8.901562499999999px; */
+	width: 187px;
+	height: 187px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086554 .Frame26086551 {
+	display: flex;
+   padding: 8px 0px 16px 0px;
+   flex-direction: column;
+   align-items: flex-start;
+   gap: 16px;
+   left:15.5px;
+   top:187px;
+   width:156px;
+   height: 70px;
+   position: absolute;
+   bottom: -70px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086554 .Frame26086551 ._ {
+	overflow: hidden;
+color: var(--n-10, #1D232B);
+text-overflow: ellipsis;
+white-space: nowrap;
+font-family: Noto Sans CJK KR;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 100%; /* 14px */
+letter-spacing: -0.14px;
+top:8px;
+bottom:16px;
+width:156px;
+height:14px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086554 .Frame26086551 .Frame26086548 {
+	display: flex;
+align-items: flex-start;
+gap: 63px;
+top: 38px;
+width:156px;
+height: 16px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086554 .Frame26086551 .Frame26086548 ._10 {
+	color: var(--error, #FF003E);
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+line-height: 100%; /* 14px */
+width:27px;
+height:14px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086554 .Frame26086551 .Frame26086548 .Frame26086547 {
+	display: flex;
+align-items: center;
+gap: 3px;
+left:90px;
+width:66px;
+height:16px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086554 .Frame26086551 .Frame26086548 .Frame26086547 ._57600 {
+	color: var(--n-11, #080A0C);
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: 100%; /* 16px */
+width:50px;
+height:16px;
+left:0px;
+top:0px;
+
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086554 .Frame26086551 .Frame26086548 .Frame26086547 .__1 {
+	color: var(--n-10, #1D232B);
+font-family: Noto Sans CJK KR;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 100%; /* 14px */
+letter-spacing: -0.14px;
+left:53px;
+top:1px;
+width:13px;
+height:14px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086556 {
+	position: absolute;
+	left: 95.744%;
+	top: 1171.2px;
+	transform: translate(-50%, 0);
+	width: 718.0799999999999px;
+	height: 986.88px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	align-items: center;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086556 .Group26086594_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 718.0799999999999px;
+	height: 718.0799999999999px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086556 .Group26086594_1 .Rectangle12866_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 718.0799999999999px;
+	height: 718.0799999999999px;
+	background: rgba(237,238,243,1.00);
+	border: 1px solid rgba(255,255,255,1);
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086556 .Group26086594_1 .imagesmode_2 {
+	position: absolute;
+	left: 307.2px;
+	top: 307.2px;
+	width: 106.83px;
+	height: 106.83px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086556 .Group26086594_1 .imagesmode_2 .Boundingbox_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 106.83px;
+	height: 106.83px;
+	background: rgba(217,217,217,1.00);
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086556 .Group26086594_1 .imagesmode_2 .imagesmode_3 {
+	position: absolute;
+	left: 8.909765625px;
+	top: 8.901562499999999px;
+	width: 89.02499999999999px;
+	height: 89.02499999999999px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086556 .Frame26086551_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 599.04px;
+	height: 268.8px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 30.72px;
+	padding-bottom: 61.44px;
+	box-sizing: border-box;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086556 .Frame26086551_1 .__2 {
+	position: relative;
+	flex: none;
+	margin-bottom: 61.44px;
+	width: 599.04px;
+	height: 53.76px;
+	color: rgba(29,35,43,1.00);
+	font-family: Noto Sans CJK KR;
+	font-size: 53.76px;
+	font-weight: 500;
+	line-height: 53.76px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086556 .Frame26086551_1 .Frame26086548_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: 61.44px;
+	width: 599.04px;
+	height: 61.44px;
+	display: flex;
+	box-sizing: border-box;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086556 .Frame26086551_1 .Frame26086548_1 ._10_1 {
+	position: relative;
+	flex: none;
+	margin-right: 241.92px;
+	width: 103.67999999999999px;
+	height: 53.76px;
+	color: rgba(255,0,62,1.00);
+	font-family: Roboto;
+	font-size: 53.76px;
+	font-weight: 700;
+	line-height: 53.76px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086556 .Frame26086551_1 .Frame26086548_1 .Frame26086547_1 {
+	position: relative;
+	flex: none;
+	margin-right: 241.92px;
+	width: 253.44px;
+	height: 61.44px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086556 .Frame26086551_1 .Frame26086548_1 .Frame26086547_1 ._57600_1 {
+	position: relative;
+	flex: none;
+	margin-right: 11.52px;
+	width: 192px;
+	height: 61.44px;
+	color: rgba(8,10,12,1.00);
+	font-family: Roboto;
+	font-size: 61.44px;
+	font-weight: 700;
+	line-height: 61.44px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086556 .Frame26086551_1 .Frame26086548_1 .Frame26086547_1 .__3 {
+	position: relative;
+	flex: none;
+	margin-right: 11.52px;
+	width: 49.92px;
+	height: 53.76px;
+	color: rgba(29,35,43,1.00);
+	font-family: Noto Sans CJK KR;
+	font-size: 53.76px;
+	font-weight: 500;
+	line-height: 53.76px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086558 {
+	position: absolute;
+	left: 95.744%;
+	top: 2158.08px;
+	transform: translate(-50%, 0);
+	width: 718.0799999999999px;
+	height: 986.88px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	align-items: center;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086558 .Group26086594_2 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 718.0799999999999px;
+	height: 718.0799999999999px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086558 .Group26086594_2 .Rectangle12866_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 718.0799999999999px;
+	height: 718.0799999999999px;
+	background: rgba(237,238,243,1.00);
+	border: 1px solid rgba(255,255,255,1);
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086558 .Group26086594_2 .imagesmode_4 {
+	position: absolute;
+	left: 307.2px;
+	top: 307.2px;
+	width: 106.83px;
+	height: 106.83px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086558 .Group26086594_2 .imagesmode_4 .Boundingbox_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 106.83px;
+	height: 106.83px;
+	background: rgba(217,217,217,1.00);
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086558 .Group26086594_2 .imagesmode_4 .imagesmode_5 {
+	position: absolute;
+	left: 8.909765625px;
+	top: 8.901562499999999px;
+	width: 89.02499999999999px;
+	height: 89.02499999999999px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086558 .Frame26086551_2 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 599.04px;
+	height: 268.8px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 30.72px;
+	padding-bottom: 61.44px;
+	box-sizing: border-box;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086558 .Frame26086551_2 .__4 {
+	position: relative;
+	flex: none;
+	margin-bottom: 61.44px;
+	width: 599.04px;
+	height: 53.76px;
+	color: rgba(29,35,43,1.00);
+	font-family: Noto Sans CJK KR;
+	font-size: 53.76px;
+	font-weight: 500;
+	line-height: 53.76px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086558 .Frame26086551_2 .Frame26086548_2 {
+	position: relative;
+	flex: none;
+	margin-bottom: 61.44px;
+	width: 599.04px;
+	height: 61.44px;
+	display: flex;
+	box-sizing: border-box;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086558 .Frame26086551_2 .Frame26086548_2 ._10_2 {
+	position: relative;
+	flex: none;
+	margin-right: 241.92px;
+	width: 103.67999999999999px;
+	height: 53.76px;
+	color: rgba(255,0,62,1.00);
+	font-family: Roboto;
+	font-size: 53.76px;
+	font-weight: 700;
+	line-height: 53.76px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086558 .Frame26086551_2 .Frame26086548_2 .Frame26086547_2 {
+	position: relative;
+	flex: none;
+	margin-right: 241.92px;
+	width: 253.44px;
+	height: 61.44px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086558 .Frame26086551_2 .Frame26086548_2 .Frame26086547_2 ._57600_2 {
+	position: relative;
+	flex: none;
+	margin-right: 11.52px;
+	width: 192px;
+	height: 61.44px;
+	color: rgba(8,10,12,1.00);
+	font-family: Roboto;
+	font-size: 61.44px;
+	font-weight: 700;
+	line-height: 61.44px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086558 .Frame26086551_2 .Frame26086548_2 .Frame26086547_2 .__5 {
+	position: relative;
+	flex: none;
+	margin-right: 11.52px;
+	width: 49.92px;
+	height: 53.76px;
+	color: rgba(29,35,43,1.00);
+	font-family: Noto Sans CJK KR;
+	font-size: 53.76px;
+	font-weight: 500;
+	line-height: 53.76px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086560 {
+	position: absolute;
+	left: 95.744%;
+	top: 3144.96px;
+	transform: translate(-50%, 0);
+	width: 718.0799999999999px;
+	height: 986.88px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	align-items: center;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086560 .Group26086594_3 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 718.0799999999999px;
+	height: 718.0799999999999px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086560 .Group26086594_3 .Rectangle12866_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 718.0799999999999px;
+	height: 718.0799999999999px;
+	background: rgba(237,238,243,1.00);
+	border: 1px solid rgba(255,255,255,1);
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086560 .Group26086594_3 .imagesmode_6 {
+	position: absolute;
+	left: 307.2px;
+	top: 307.2px;
+	width: 106.83px;
+	height: 106.83px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086560 .Group26086594_3 .imagesmode_6 .Boundingbox_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 106.83px;
+	height: 106.83px;
+	background: rgba(217,217,217,1.00);
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086560 .Group26086594_3 .imagesmode_6 .imagesmode_7 {
+	position: absolute;
+	left: 8.909765625px;
+	top: 8.9014453125px;
+	width: 89.02499999999999px;
+	height: 89.02499999999999px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086560 .Frame26086551_3 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 599.04px;
+	height: 268.8px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 30.72px;
+	padding-bottom: 61.44px;
+	box-sizing: border-box;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086560 .Frame26086551_3 .__6 {
+	position: relative;
+	flex: none;
+	margin-bottom: 61.44px;
+	width: 599.04px;
+	height: 53.76px;
+	color: rgba(29,35,43,1.00);
+	font-family: Noto Sans CJK KR;
+	font-size: 53.76px;
+	font-weight: 500;
+	line-height: 53.76px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086560 .Frame26086551_3 .Frame26086548_3 {
+	position: relative;
+	flex: none;
+	margin-bottom: 61.44px;
+	width: 599.04px;
+	height: 61.44px;
+	display: flex;
+	box-sizing: border-box;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086560 .Frame26086551_3 .Frame26086548_3 ._10_3 {
+	position: relative;
+	flex: none;
+	margin-right: 241.92px;
+	width: 103.67999999999999px;
+	height: 53.76px;
+	color: rgba(255,0,62,1.00);
+	font-family: Roboto;
+	font-size: 53.76px;
+	font-weight: 700;
+	line-height: 53.76px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086560 .Frame26086551_3 .Frame26086548_3 .Frame26086547_3 {
+	position: relative;
+	flex: none;
+	margin-right: 241.92px;
+	width: 253.44px;
+	height: 61.44px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086560 .Frame26086551_3 .Frame26086548_3 .Frame26086547_3 ._57600_3 {
+	position: relative;
+	flex: none;
+	margin-right: 11.52px;
+	width: 192px;
+	height: 61.44px;
+	color: rgba(8,10,12,1.00);
+	font-family: Roboto;
+	font-size: 61.44px;
+	font-weight: 700;
+	line-height: 61.44px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086560 .Frame26086551_3 .Frame26086548_3 .Frame26086547_3 .__7 {
+	position: relative;
+	flex: none;
+	margin-right: 11.52px;
+	width: 49.92px;
+	height: 53.76px;
+	color: rgba(29,35,43,1.00);
+	font-family: Noto Sans CJK KR;
+	font-size: 53.76px;
+	font-weight: 500;
+	line-height: 53.76px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086562 {
+	position: absolute;
+	left: 95.744%;
+	top: 4131.84px;
+	transform: translate(-50%, 0);
+	width: 718.0799999999999px;
+	height: 986.88px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	align-items: center;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086562 .Group26086594_4 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 718.0799999999999px;
+	height: 718.0799999999999px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086562 .Group26086594_4 .Rectangle12866_4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 718.0799999999999px;
+	height: 718.0799999999999px;
+	background: rgba(237,238,243,1.00);
+	border: 1px solid rgba(255,255,255,1);
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086562 .Group26086594_4 .imagesmode_8 {
+	position: absolute;
+	left: 307.2px;
+	top: 307.2px;
+	width: 106.83px;
+	height: 106.83px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086562 .Group26086594_4 .imagesmode_8 .Boundingbox_4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 106.83px;
+	height: 106.83px;
+	background: rgba(217,217,217,1.00);
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086562 .Group26086594_4 .imagesmode_8 .imagesmode_9 {
+	position: absolute;
+	left: 8.909765625px;
+	top: 8.90150390625px;
+	width: 89.02499999999999px;
+	height: 89.02499999999999px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086562 .Frame26086551_4 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 599.04px;
+	height: 268.8px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 30.72px;
+	padding-bottom: 61.44px;
+	box-sizing: border-box;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086562 .Frame26086551_4 .__8 {
+	position: relative;
+	flex: none;
+	margin-bottom: 61.44px;
+	width: 599.04px;
+	height: 53.76px;
+	color: rgba(29,35,43,1.00);
+	font-family: Noto Sans CJK KR;
+	font-size: 53.76px;
+	font-weight: 500;
+	line-height: 53.76px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086562 .Frame26086551_4 .Frame26086548_4 {
+	position: relative;
+	flex: none;
+	margin-bottom: 61.44px;
+	width: 599.04px;
+	height: 61.44px;
+	display: flex;
+	box-sizing: border-box;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086562 .Frame26086551_4 .Frame26086548_4 ._10_4 {
+	position: relative;
+	flex: none;
+	margin-right: 241.92px;
+	width: 103.67999999999999px;
+	height: 53.76px;
+	color: rgba(255,0,62,1.00);
+	font-family: Roboto;
+	font-size: 53.76px;
+	font-weight: 700;
+	line-height: 53.76px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086562 .Frame26086551_4 .Frame26086548_4 .Frame26086547_4 {
+	position: relative;
+	flex: none;
+	margin-right: 241.92px;
+	width: 253.44px;
+	height: 61.44px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086562 .Frame26086551_4 .Frame26086548_4 .Frame26086547_4 ._57600_4 {
+	position: relative;
+	flex: none;
+	margin-right: 11.52px;
+	width: 192px;
+	height: 61.44px;
+	color: rgba(8,10,12,1.00);
+	font-family: Roboto;
+	font-size: 61.44px;
+	font-weight: 700;
+	line-height: 61.44px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086562 .Frame26086551_4 .Frame26086548_4 .Frame26086547_4 .__9 {
+	position: relative;
+	flex: none;
+	margin-right: 11.52px;
+	width: 49.92px;
+	height: 53.76px;
+	color: rgba(29,35,43,1.00);
+	font-family: Noto Sans CJK KR;
+	font-size: 53.76px;
+	font-weight: 500;
+	line-height: 53.76px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086555 {
+	position: absolute;
+	left: 288.25600000000003%;
+	top: 184.32px;
+	transform: translate(-50%, 0);
+	width: 718.0799999999999px;
+	height: 986.88px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	align-items: center;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086555 .Group26086594_5 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 718.0799999999999px;
+	height: 718.0799999999999px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086555 .Group26086594_5 .Rectangle12866_5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 718.0799999999999px;
+	height: 718.0799999999999px;
+	background: rgba(237,238,243,1.00);
+	border: 1px solid rgba(255,255,255,1);
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086555 .Group26086594_5 .imagesmode_10 {
+	position: absolute;
+	left: 307.2px;
+	top: 307.2px;
+	width: 106.83px;
+	height: 106.83px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086555 .Group26086594_5 .imagesmode_10 .Boundingbox_5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 106.83px;
+	height: 106.83px;
+	background: rgba(217,217,217,1.00);
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086555 .Group26086594_5 .imagesmode_10 .imagesmode_11 {
+	position: absolute;
+	left: 8.909765625px;
+	top: 8.901562499999999px;
+	width: 89.02499999999999px;
+	height: 89.02499999999999px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086555 .Frame26086551_5 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 599.04px;
+	height: 268.8px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 30.72px;
+	padding-bottom: 61.44px;
+	box-sizing: border-box;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086555 .Frame26086551_5 .__10 {
+	position: relative;
+	flex: none;
+	margin-bottom: 61.44px;
+	width: 599.04px;
+	height: 53.76px;
+	color: rgba(29,35,43,1.00);
+	font-family: Noto Sans CJK KR;
+	font-size: 53.76px;
+	font-weight: 500;
+	line-height: 53.76px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086555 .Frame26086551_5 .Frame26086548_5 {
+	position: relative;
+	flex: none;
+	margin-bottom: 61.44px;
+	width: 599.04px;
+	height: 61.44px;
+	display: flex;
+	box-sizing: border-box;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086555 .Frame26086551_5 .Frame26086548_5 ._10_5 {
+	position: relative;
+	flex: none;
+	margin-right: 241.92px;
+	width: 103.67999999999999px;
+	height: 53.76px;
+	color: rgba(255,0,62,1.00);
+	font-family: Roboto;
+	font-size: 53.76px;
+	font-weight: 700;
+	line-height: 53.76px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086555 .Frame26086551_5 .Frame26086548_5 .Frame26086547_5 {
+	position: relative;
+	flex: none;
+	margin-right: 241.92px;
+	width: 253.44px;
+	height: 61.44px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086555 .Frame26086551_5 .Frame26086548_5 .Frame26086547_5 ._57600_5 {
+	position: relative;
+	flex: none;
+	margin-right: 11.52px;
+	width: 192px;
+	height: 61.44px;
+	color: rgba(8,10,12,1.00);
+	font-family: Roboto;
+	font-size: 61.44px;
+	font-weight: 700;
+	line-height: 61.44px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086555 .Frame26086551_5 .Frame26086548_5 .Frame26086547_5 .__11 {
+	position: relative;
+	flex: none;
+	margin-right: 11.52px;
+	width: 49.92px;
+	height: 53.76px;
+	color: rgba(29,35,43,1.00);
+	font-family: Noto Sans CJK KR;
+	font-size: 53.76px;
+	font-weight: 500;
+	line-height: 53.76px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086557 {
+	position: absolute;
+	left: 288.25600000000003%;
+	top: 1171.2px;
+	transform: translate(-50%, 0);
+	width: 718.0799999999999px;
+	height: 986.88px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	align-items: center;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086557 .Group26086594_6 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 718.0799999999999px;
+	height: 718.0799999999999px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086557 .Group26086594_6 .Rectangle12866_6 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 718.0799999999999px;
+	height: 718.0799999999999px;
+	background: rgba(237,238,243,1.00);
+	border: 1px solid rgba(255,255,255,1);
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086557 .Group26086594_6 .imagesmode_12 {
+	position: absolute;
+	left: 307.2px;
+	top: 307.2px;
+	width: 106.83px;
+	height: 106.83px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086557 .Group26086594_6 .imagesmode_12 .Boundingbox_6 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 106.83px;
+	height: 106.83px;
+	background: rgba(217,217,217,1.00);
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086557 .Group26086594_6 .imagesmode_12 .imagesmode_13 {
+	position: absolute;
+	left: 8.909765625px;
+	top: 8.901562499999999px;
+	width: 89.02499999999999px;
+	height: 89.02499999999999px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086557 .Frame26086551_6 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 599.04px;
+	height: 268.8px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 30.72px;
+	padding-bottom: 61.44px;
+	box-sizing: border-box;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086557 .Frame26086551_6 .__12 {
+	position: relative;
+	flex: none;
+	margin-bottom: 61.44px;
+	width: 599.04px;
+	height: 53.76px;
+	color: rgba(29,35,43,1.00);
+	font-family: Noto Sans CJK KR;
+	font-size: 53.76px;
+	font-weight: 500;
+	line-height: 53.76px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086557 .Frame26086551_6 .Frame26086548_6 {
+	position: relative;
+	flex: none;
+	margin-bottom: 61.44px;
+	width: 599.04px;
+	height: 61.44px;
+	display: flex;
+	box-sizing: border-box;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086557 .Frame26086551_6 .Frame26086548_6 ._10_6 {
+	position: relative;
+	flex: none;
+	margin-right: 241.92px;
+	width: 103.67999999999999px;
+	height: 53.76px;
+	color: rgba(255,0,62,1.00);
+	font-family: Roboto;
+	font-size: 53.76px;
+	font-weight: 700;
+	line-height: 53.76px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086557 .Frame26086551_6 .Frame26086548_6 .Frame26086547_6 {
+	position: relative;
+	flex: none;
+	margin-right: 241.92px;
+	width: 253.44px;
+	height: 61.44px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086557 .Frame26086551_6 .Frame26086548_6 .Frame26086547_6 ._57600_6 {
+	position: relative;
+	flex: none;
+	margin-right: 11.52px;
+	width: 192px;
+	height: 61.44px;
+	color: rgba(8,10,12,1.00);
+	font-family: Roboto;
+	font-size: 61.44px;
+	font-weight: 700;
+	line-height: 61.44px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086557 .Frame26086551_6 .Frame26086548_6 .Frame26086547_6 .__13 {
+	position: relative;
+	flex: none;
+	margin-right: 11.52px;
+	width: 49.92px;
+	height: 53.76px;
+	color: rgba(29,35,43,1.00);
+	font-family: Noto Sans CJK KR;
+	font-size: 53.76px;
+	font-weight: 500;
+	line-height: 53.76px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086559 {
+	position: absolute;
+	left: 288.25600000000003%;
+	top: 2158.08px;
+	transform: translate(-50%, 0);
+	width: 718.0799999999999px;
+	height: 986.88px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	align-items: center;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086559 .Group26086594_7 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 718.0799999999999px;
+	height: 718.0799999999999px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086559 .Group26086594_7 .Rectangle12866_7 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 718.0799999999999px;
+	height: 718.0799999999999px;
+	background: rgba(237,238,243,1.00);
+	border: 1px solid rgba(255,255,255,1);
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086559 .Group26086594_7 .imagesmode_14 {
+	position: absolute;
+	left: 307.2px;
+	top: 307.2px;
+	width: 106.83px;
+	height: 106.83px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086559 .Group26086594_7 .imagesmode_14 .Boundingbox_7 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 106.83px;
+	height: 106.83px;
+	background: rgba(217,217,217,1.00);
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086559 .Group26086594_7 .imagesmode_14 .imagesmode_15 {
+	position: absolute;
+	left: 8.909765625px;
+	top: 8.901562499999999px;
+	width: 89.02499999999999px;
+	height: 89.02499999999999px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086559 .Frame26086551_7 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 599.04px;
+	height: 268.8px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 30.72px;
+	padding-bottom: 61.44px;
+	box-sizing: border-box;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086559 .Frame26086551_7 .__14 {
+	position: relative;
+	flex: none;
+	margin-bottom: 61.44px;
+	width: 599.04px;
+	height: 53.76px;
+	color: rgba(29,35,43,1.00);
+	font-family: Noto Sans CJK KR;
+	font-size: 53.76px;
+	font-weight: 500;
+	line-height: 53.76px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086559 .Frame26086551_7 .Frame26086548_7 {
+	position: relative;
+	flex: none;
+	margin-bottom: 61.44px;
+	width: 599.04px;
+	height: 61.44px;
+	display: flex;
+	box-sizing: border-box;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086559 .Frame26086551_7 .Frame26086548_7 ._10_7 {
+	position: relative;
+	flex: none;
+	margin-right: 241.92px;
+	width: 103.67999999999999px;
+	height: 53.76px;
+	color: rgba(255,0,62,1.00);
+	font-family: Roboto;
+	font-size: 53.76px;
+	font-weight: 700;
+	line-height: 53.76px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086559 .Frame26086551_7 .Frame26086548_7 .Frame26086547_7 {
+	position: relative;
+	flex: none;
+	margin-right: 241.92px;
+	width: 253.44px;
+	height: 61.44px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086559 .Frame26086551_7 .Frame26086548_7 .Frame26086547_7 ._57600_7 {
+	position: relative;
+	flex: none;
+	margin-right: 11.52px;
+	width: 192px;
+	height: 61.44px;
+	color: rgba(8,10,12,1.00);
+	font-family: Roboto;
+	font-size: 61.44px;
+	font-weight: 700;
+	line-height: 61.44px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086559 .Frame26086551_7 .Frame26086548_7 .Frame26086547_7 .__15 {
+	position: relative;
+	flex: none;
+	margin-right: 11.52px;
+	width: 49.92px;
+	height: 53.76px;
+	color: rgba(29,35,43,1.00);
+	font-family: Noto Sans CJK KR;
+	font-size: 53.76px;
+	font-weight: 500;
+	line-height: 53.76px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086561 {
+	position: absolute;
+	left: 288.25600000000003%;
+	top: 3144.96px;
+	transform: translate(-50%, 0);
+	width: 718.0799999999999px;
+	height: 986.88px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	align-items: center;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086561 .Group26086594_8 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 718.0799999999999px;
+	height: 718.0799999999999px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086561 .Group26086594_8 .Rectangle12866_8 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 718.0799999999999px;
+	height: 718.0799999999999px;
+	background: rgba(237,238,243,1.00);
+	border: 1px solid rgba(255,255,255,1);
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086561 .Group26086594_8 .imagesmode_16 {
+	position: absolute;
+	left: 307.2px;
+	top: 307.2px;
+	width: 106.83px;
+	height: 106.83px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086561 .Group26086594_8 .imagesmode_16 .Boundingbox_8 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 106.83px;
+	height: 106.83px;
+	background: rgba(217,217,217,1.00);
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086561 .Group26086594_8 .imagesmode_16 .imagesmode_17 {
+	position: absolute;
+	left: 8.909765625px;
+	top: 8.9014453125px;
+	width: 89.02499999999999px;
+	height: 89.02499999999999px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086561 .Frame26086551_8 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 599.04px;
+	height: 268.8px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 30.72px;
+	padding-bottom: 61.44px;
+	box-sizing: border-box;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086561 .Frame26086551_8 .__16 {
+	position: relative;
+	flex: none;
+	margin-bottom: 61.44px;
+	width: 599.04px;
+	height: 53.76px;
+	color: rgba(29,35,43,1.00);
+	font-family: Noto Sans CJK KR;
+	font-size: 53.76px;
+	font-weight: 500;
+	line-height: 53.76px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086561 .Frame26086551_8 .Frame26086548_8 {
+	position: relative;
+	flex: none;
+	margin-bottom: 61.44px;
+	width: 599.04px;
+	height: 61.44px;
+	display: flex;
+	box-sizing: border-box;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086561 .Frame26086551_8 .Frame26086548_8 ._10_8 {
+	position: relative;
+	flex: none;
+	margin-right: 241.92px;
+	width: 103.67999999999999px;
+	height: 53.76px;
+	color: rgba(255,0,62,1.00);
+	font-family: Roboto;
+	font-size: 53.76px;
+	font-weight: 700;
+	line-height: 53.76px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086561 .Frame26086551_8 .Frame26086548_8 .Frame26086547_8 {
+	position: relative;
+	flex: none;
+	margin-right: 241.92px;
+	width: 253.44px;
+	height: 61.44px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086561 .Frame26086551_8 .Frame26086548_8 .Frame26086547_8 ._57600_8 {
+	position: relative;
+	flex: none;
+	margin-right: 11.52px;
+	width: 192px;
+	height: 61.44px;
+	color: rgba(8,10,12,1.00);
+	font-family: Roboto;
+	font-size: 61.44px;
+	font-weight: 700;
+	line-height: 61.44px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086561 .Frame26086551_8 .Frame26086548_8 .Frame26086547_8 .__17 {
+	position: relative;
+	flex: none;
+	margin-right: 11.52px;
+	width: 49.92px;
+	height: 53.76px;
+	color: rgba(29,35,43,1.00);
+	font-family: Noto Sans CJK KR;
+	font-size: 53.76px;
+	font-weight: 500;
+	line-height: 53.76px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086563 {
+	position: absolute;
+	left: 288.25600000000003%;
+	top: 4131.84px;
+	transform: translate(-50%, 0);
+	width: 718.0799999999999px;
+	height: 986.88px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	align-items: center;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086563 .Group26086594_9 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 718.0799999999999px;
+	height: 718.0799999999999px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086563 .Group26086594_9 .Rectangle12866_9 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 718.0799999999999px;
+	height: 718.0799999999999px;
+	background: rgba(237,238,243,1.00);
+	border: 1px solid rgba(255,255,255,1);
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086563 .Group26086594_9 .imagesmode_18 {
+	position: absolute;
+	left: 307.2px;
+	top: 307.2px;
+	width: 106.83px;
+	height: 106.83px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086563 .Group26086594_9 .imagesmode_18 .Boundingbox_9 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 106.83px;
+	height: 106.83px;
+	background: rgba(217,217,217,1.00);
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086563 .Group26086594_9 .imagesmode_18 .imagesmode_19 {
+	position: absolute;
+	left: 8.909765625px;
+	top: 8.90150390625px;
+	width: 89.02499999999999px;
+	height: 89.02499999999999px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086563 .Frame26086551_9 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 599.04px;
+	height: 268.8px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 30.72px;
+	padding-bottom: 61.44px;
+	box-sizing: border-box;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086563 .Frame26086551_9 .__18 {
+	position: relative;
+	flex: none;
+	margin-bottom: 61.44px;
+	width: 599.04px;
+	height: 53.76px;
+	color: rgba(29,35,43,1.00);
+	font-family: Noto Sans CJK KR;
+	font-size: 53.76px;
+	font-weight: 500;
+	line-height: 53.76px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086563 .Frame26086551_9 .Frame26086548_9 {
+	position: relative;
+	flex: none;
+	margin-bottom: 61.44px;
+	width: 599.04px;
+	height: 61.44px;
+	display: flex;
+	box-sizing: border-box;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086563 .Frame26086551_9 .Frame26086548_9 ._10_9 {
+	position: relative;
+	flex: none;
+	margin-right: 241.92px;
+	width: 103.67999999999999px;
+	height: 53.76px;
+	color: rgba(255,0,62,1.00);
+	font-family: Roboto;
+	font-size: 53.76px;
+	font-weight: 700;
+	line-height: 53.76px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086563 .Frame26086551_9 .Frame26086548_9 .Frame26086547_9 {
+	position: relative;
+	flex: none;
+	margin-right: 241.92px;
+	width: 253.44px;
+	height: 61.44px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086563 .Frame26086551_9 .Frame26086548_9 .Frame26086547_9 ._57600_9 {
+	position: relative;
+	flex: none;
+	margin-right: 11.52px;
+	width: 192px;
+	height: 61.44px;
+	color: rgba(8,10,12,1.00);
+	font-family: Roboto;
+	font-size: 61.44px;
+	font-weight: 700;
+	line-height: 61.44px;
+}
+.BOOKLISTPAGE_BOOKLISTPAGE .Frame26086563 .Frame26086551_9 .Frame26086548_9 .Frame26086547_9 .__19 {
+	position: relative;
+	flex: none;
+	margin-right: 11.52px;
+	width: 49.92px;
+	height: 53.76px;
+	color: rgba(29,35,43,1.00);
+	font-family: Noto Sans CJK KR;
+	font-size: 53.76px;
+	font-weight: 500;
+	line-height: 53.76px;
+}

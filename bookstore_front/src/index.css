@@ -1,0 +1,6 @@
+/* Import the default styles and your custom styles here */
+
+/* Example Tailwind CSS base styles */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
