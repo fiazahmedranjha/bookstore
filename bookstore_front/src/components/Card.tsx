@@ -1,23 +1,33 @@
 import React from 'react';
 import { Book } from '../atoms/bookState';
-
+import '../BOOKLISTPAGE.css'
 interface CardProps {
   book: Book;
 }
 
-const Card: React.FC<CardProps> = ({ book }) => {
+const BookCard: React.FC<CardProps> = ({ book }) => {
+  
   return (
-    <div className="flex flex-col p-4 border border-gray-300 rounded-md shadow-md">
-      <img
-        src={book.coverImage}
-        alt={book.title}
-        className="h-48 w-full object-cover mb-4"
-      />
-      <h3 className="text-lg font-semibold">{book.title}</h3>
-      <p className="text-sm text-gray-500">{`Discount: ${book.discountRate}%`}</p>
-      <p className="text-sm">{`Price: $${book.price.toFixed(2)}`}</p>
+    <div className='Frame26086554'>
+      <div className='Group26086594'>
+        {/* <div className='Rectangle12866' />
+        <div className='imagesmode'>
+          <div className='Boundingbox' /> */}
+          <img className='imagesmode_1' src='/book_image.svg' alt='Book' />
+        {/* </div>*/}
+      </div> 
+      <div className='Frame26086551'>
+        <span className='_'>{book.title}</span>
+        <div className='Frame26086548'>
+          <span className='_10'>{`${book.discountRate}%`}</span>
+          <div className='Frame26086547'>
+            <span className='_57600'>${book.price.toFixed(2)}</span>
+            <span className='__1'>원</span>
+          </div>
+        </div>
+      </div>
     </div>
   );
 };
 
-export default Card;
+export default BookCard;

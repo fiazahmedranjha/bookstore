@@ -1,10 +1,11 @@
 import React, { useEffect, useState } from 'react';
 import { useRecoilState } from 'recoil';
+import './BOOKLISTPAGE.css'
 import { fetchBooks } from './services/bookService';
 import bookState, { Book } from './atoms/bookState';
 import Card from './components/Card';
 import axios from 'axios';
-const BASE_URL = 'http://localhost:4000/buying_books';
+const BASE_URL = 'http://localhost:4000/api';
 
 const BookList: React.FC = () => {
   const [books, setBooks] = useRecoilState(bookState);
@@ -29,7 +30,7 @@ const BookList: React.FC = () => {
     // Fetch more data using Axios and your pagination logic
     // For example: you can use the length of 'books' array to get the next page
     const nextPage = Math.ceil(books.length / 10) + 1;
-    const response = await axios.get<Book[]>(`${BASE_URL}/books?page=${nextPage}`);
+    const response = await axios.get<Book[]>(`${BASE_URL}/buying_books?page=${nextPage}`);
     const newData = response.data;
     setBooks([...books, ...newData]);
 
@@ -51,13 +52,27 @@ const BookList: React.FC = () => {
   }, [handleScroll]);
 
   return (
-    <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 p-4">
+      
+
+        <div className='BOOKLISTPAGE_BOOKLISTPAGE'>
+			<div className='Rectangle12846'/>
+			<div className='Rectangle12845'>
+      <span className='Books'>Books</span>
+      </div>
+			<div className='RED_GUDIE_02'/>
+			<div className='RED_GUDIE_01'/>
+	
+     
       {isLoading ? (
         <p>Loading...</p>
       ) : (
-        books.map((book) => <Card key={book.id} book={book} />)
+        
+      books.map((book) => <Card key={book.id} book={book} />)
       )}
-    </div>
+        </div>
+        
+     
+ 
   );
 };
 

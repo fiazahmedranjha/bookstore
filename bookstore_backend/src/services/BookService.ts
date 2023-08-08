@@ -10,6 +10,16 @@ export async function getAllBooks(): Promise<Book[]> {
   }
 }
 
+//buying books api
+export async function buying_books(): Promise<Book[]> {
+  try {
+    const books = await BookRepository.getAllBooks();
+    return books;
+  } catch (error) {
+    throw new Error('Failed to fetch all books from the database.');
+  }
+}
+
 export async function getBookById(id: number): Promise<Book | null> {
   try {
     const book = await BookRepository.getBookById(id);

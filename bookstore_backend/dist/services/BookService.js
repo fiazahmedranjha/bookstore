@@ -32,7 +32,7 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
     });
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.deleteBook = exports.updateBook = exports.createBook = exports.getBookById = exports.getAllBooks = void 0;
+exports.deleteBook = exports.updateBook = exports.createBook = exports.getBookById = exports.buying_books = exports.getAllBooks = void 0;
 const BookRepository = __importStar(require("../repository/BookRepository"));
 function getAllBooks() {
     return __awaiter(this, void 0, void 0, function* () {
@@ -46,6 +46,19 @@ function getAllBooks() {
     });
 }
 exports.getAllBooks = getAllBooks;
+//buying books api
+function buying_books() {
+    return __awaiter(this, void 0, void 0, function* () {
+        try {
+            const books = yield BookRepository.getAllBooks();
+            return books;
+        }
+        catch (error) {
+            throw new Error('Failed to fetch all books from the database.');
+        }
+    });
+}
+exports.buying_books = buying_books;
 function getBookById(id) {
     return __awaiter(this, void 0, void 0, function* () {
         try {
